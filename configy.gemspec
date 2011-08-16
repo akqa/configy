@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
 
   s.add_development_dependency "bundler", ">= 1.0.0"
+  s.add_development_dependency "minitest"
   s.extra_rdoc_files = [
     "LICENSE",
      "README.rdoc"
